@@ -4,7 +4,6 @@ import Link from "next/link";
 type ProjectCardProps = {
   src: string;
   title: string;
-  description: string;
   link: string;
 };
 
