@@ -57,12 +57,8 @@
   },
   "funding": [
     {
-      "type": "patreon",
-      "url": "https://www.patreon.com/sanidhy"
-    },
-    {
-      "type": "Buy me a coffee",
-      "url": "https://www.buymeacoffee.com/sanidhy"
+      "type": "me",
+      "url": "https://fullstack-portfolio-d8ht.vercel.app/"
     }
   ],
   "dependencies": {
